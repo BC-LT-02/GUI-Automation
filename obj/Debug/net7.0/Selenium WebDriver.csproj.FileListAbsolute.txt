@@ -1,0 +1,58 @@
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\nunit.engine.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\nunit.engine.api.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\nunit.engine.core.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\testcentric.engine.metadata.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\Selenium WebDriver.exe
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\Selenium WebDriver.deps.json
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\Selenium WebDriver.runtimeconfig.json
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\Selenium WebDriver.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\Selenium WebDriver.pdb
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\Newtonsoft.Json.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\NuGet.Frameworks.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\nunit.framework.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\WebDriver.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\obj\Debug\net7.0\Selenium WebDriver.csproj.AssemblyReference.cache
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\obj\Debug\net7.0\Selenium WebDriver.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\obj\Debug\net7.0\Selenium WebDriver.AssemblyInfoInputs.cache
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\obj\Debug\net7.0\Selenium WebDriver.AssemblyInfo.cs
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\obj\Debug\net7.0\Selenium WebDriver.csproj.CoreCompileInputs.cache
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\obj\Debug\net7.0\Selenium WebDriver.csproj.CopyComplete
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\obj\Debug\net7.0\Selenium WebDriver.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\obj\Debug\net7.0\refint\Selenium WebDriver.dll
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\obj\Debug\net7.0\Selenium WebDriver.pdb
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\obj\Debug\net7.0\Selenium WebDriver.genruntimeconfig.cache
+c:\Users\luis_\OneDrive\Documentos\GUI Testing\Selenium WebDriver\obj\Debug\net7.0\ref\Selenium WebDriver.dll
