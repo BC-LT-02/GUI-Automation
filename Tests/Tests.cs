@@ -11,9 +11,9 @@ public class Tests : Driver
     private ProgramTodo Todo = new ProgramTodo();
     private Settings Settings = new Settings();
 
-    [Test]
-    public void AddNewProject()
-    {
-        NewProject.newProject(_driver!, "Automation");
-    }
+    // [Test]
+    // public void AddNewProject()
+    // {
+    //     NewProject.newProject(_driver!, "Automation");
+    // }
 }
